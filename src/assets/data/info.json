@@ -1,0 +1,26 @@
+{
+  "about": {
+    "title": "About Us",
+    "description": "we are committed to providing reliable, professional, and high-quality car services tailored to meet your needs. Based in [Location], our team specializes in a range of services, from routine maintenance and repairs to specialized diagnostics and detailing. With years of experience in the automotive industry, we take pride in delivering exceptional service, ensuring your vehicle performs at its best. Our skilled technicians use state-of-the-art equipment and genuine parts to guarantee quality and safety. Whether you need a quick oil change, brake inspection, or comprehensive car service, we’ve got you covered. At [Company Name], your satisfaction and trust are our top priorities."
+  },
+  "sevices": {
+    "title": "sevices",
+    "services": [
+    {
+      "name": "Routine Maintenance",
+      "icon":"faCar",
+      "description": "Ensure your car stays in top condition with regular oil changes, tire rotations, and fluid checks performed by our expert technicians."
+    },
+    {
+      "name": "Diagnostic Services",
+      "icon":"faCar",
+      "description": "We use advanced diagnostic tools to identify and resolve any issues with your vehicle quickly and efficiently."
+    },
+    {
+      "name": "Car Detailing",
+      "icon":"faCar",
+      "description": "Give your car a fresh, like-new look with our comprehensive interior and exterior cleaning and detailing services."
+    }
+  ]
+  }
+}

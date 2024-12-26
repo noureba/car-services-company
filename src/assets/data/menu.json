@@ -1,0 +1,25 @@
+[
+  {
+    "id": 0,
+    "title": "Home",
+    "slug": "home"
+  },
+  {
+    "id": 1,
+    "title": "About us",
+    "slug": "about"
+  },
+  {
+    "id": 2,
+    "title": "Services",
+    "slug": "services"
+  },
+  {
+    "id": 3,
+    "title": "contact us",
+    "slug": "contact"
+  }
+]
+
+
+

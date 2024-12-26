@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "title": "Comprehensive Car Maintenance Services",
+    "desc": "We provide complete car maintenance solutions with the highest standards of quality and professionalism.",
+    "bgImage": "src/assets/images/slideOne.jpg"
+  },
+  {
+    "id": 1,
+    "title": " Electronic Car Diagnostics",
+    "desc": "Discover your car's issues quickly and accurately with the latest diagnostic technologies.",
+    "bgImage": "src/assets/images/slideTwo.jpg"
+  }
+]
